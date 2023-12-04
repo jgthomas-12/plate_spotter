@@ -1,0 +1,101 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/app/models/collected_plate.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/spec/models/game_sessions_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/app/models/game_session.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/spec/models/game_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/app/models/game.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/spec/models/license_plate_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/app/models/license_plate.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/spec/models/user_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/jessethomas/Desktop/Desktop - Turing (2)/turing_work/5mod/my_projects/plate_spotter/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1701661086
+  }
+}
